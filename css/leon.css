@@ -213,7 +213,7 @@ body{
 /* Start Landing */
 .landing{
     height: calc(100vh - 70px);
-    background-image: url(../images/intro-image.jpg);
+    background-image: url(../images/intro.jpg);
     background-position: center;
     background-size: cover;
     display: flex;
